@@ -29,3 +29,5 @@ Contains the dictionary resource available.
 ## FUTURE WORK
 1) Scalable options selection.
 2) Instead of cancelling transaction, it should give person the ability to add remaining sum
+3) Make it object oriented
+4) During running, relaod the resources to continue.
